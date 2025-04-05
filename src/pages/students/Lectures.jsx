@@ -6,7 +6,7 @@ const Lectures = () => {
     {
       title: "Web Development Basics",
       description: "Intro to HTML, CSS, and JS.",
-      thumbnail: "/dsa.jpg", // Replace with your image
+      thumbnail: "/web.png", // Replace with your image
       views: 500,
       likes: 120,
       comments: 30,
@@ -14,7 +14,7 @@ const Lectures = () => {
     {
       title: "Advanced React",
       description: "Hooks, Context, performance tips.",
-      thumbnail: "/assets/lecture2.jpg",
+      thumbnail: "/advreact.png",
       views: 860,
       likes: 200,
       comments: 45,
@@ -22,7 +22,7 @@ const Lectures = () => {
     {
       title: "Data Structures",
       description: "Linked lists, stacks, and queues.",
-      thumbnail: "/assets/lecture3.jpg",
+      thumbnail: "/dsa.png",
       views: 620,
       likes: 150,
       comments: 35,
@@ -30,7 +30,7 @@ const Lectures = () => {
     {
       title: "Database Design",
       description: "Relational & NoSQL databases.",
-      thumbnail: "/assets/lecture4.jpg",
+      thumbnail: "/db.png",
       views: 400,
       likes: 90,
       comments: 22,
@@ -38,7 +38,7 @@ const Lectures = () => {
     {
       title: "Machine Learning Intro",
       description: "Supervised vs Unsupervised ML.",
-      thumbnail: "/assets/lecture5.jpg",
+      thumbnail: "/ml.png",
       views: 790,
       likes: 230,
       comments: 58,
@@ -46,7 +46,7 @@ const Lectures = () => {
     {
       title: "Cybersecurity Basics",
       description: "Learn how to secure systems.",
-      thumbnail: "/assets/lecture6.jpg",
+      thumbnail: "/cyber.png",
       views: 300,
       likes: 110,
       comments: 19,
@@ -54,7 +54,7 @@ const Lectures = () => {
     {
       title: "Cloud Computing",
       description: "AWS, Azure, GCP overview.",
-      thumbnail: "/assets/lecture7.jpg",
+      thumbnail: "/cc.png",
       views: 980,
       likes: 300,
       comments: 70,
@@ -62,7 +62,7 @@ const Lectures = () => {
     {
       title: "Mobile App Dev",
       description: "Build apps with Flutter.",
-      thumbnail: "/assets/lecture8.jpg",
+      thumbnail: "/mob.png",
       views: 560,
       likes: 175,
       comments: 40,
@@ -70,7 +70,7 @@ const Lectures = () => {
     {
       title: "AI in Education",
       description: "AI’s role in modern learning.",
-      thumbnail: "/assets/lecture9.jpg",
+      thumbnail: "/ai.png",
       views: 720,
       likes: 210,
       comments: 33,
