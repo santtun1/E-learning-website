@@ -15,3 +15,5 @@ If you are developing a production application, we recommend using TypeScript an
 # eLearning
 elearning platform 
 >>>>>>> 3d3d7ec65707746c9ddf0b10e4c7316da320c8cb
+>>>>>>> This is the final
+>>>>>>> 
